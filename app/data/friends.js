@@ -11,7 +11,7 @@ var friends = [
 	},
 	{
 		name: "Dennis",
-		photo: "https://ca.slack-edge.com/TLRM899N0-UM07S9J7R-a4dab05dbca3-512",
+		photo: "https://avatars3.githubusercontent.com/u/52843217?s=460&v=4",
 		scores: [1, 1, 5, 3, 3, 5, 1, 2, 3, 4]
 	},
 	{
