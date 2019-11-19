@@ -10,7 +10,6 @@ body {
     background-position: bottom;
     background-repeat: repeat; 
     background-size: cover;
-    /* margin-top: 20px; */
 }
 
 .content {
@@ -19,7 +18,6 @@ body {
     background-position: inherit;
     background-repeat: no-repeat;
     background-size: cover;
-    /* margin-top: 20px; */
 }
 
 .jumbotron { 
