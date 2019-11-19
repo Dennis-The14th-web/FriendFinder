@@ -6,22 +6,22 @@ var friends = [
 	},
 	{
 		name: "Jeff",
-		photo: "http://www.gstatic.com/tv/thumb/persons/532529/532529_v9_bb.jpg",
+		photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIcX0d7GISlglaosTWHmIvpyAp-6O9kaU4s4BVR4OGtnYpVzAb&s",
 		scores: [2, 5, 4, 1, 2, 3, 3, 2, 3, 3]
 	},
 	{
 		name: "Bill",
-		photo: "http://www.gstatic.com/tv/thumb/persons/614/614_v9_bc.jpg",
+		photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbFcZCv57aJjy_j5KpTQL2WjJzB5-sxMNmBL0rHa8wMyP6dWRIfg&s",
 		scores: [1, 1, 5, 3, 3, 5, 1, 2, 3, 4]
 	},
 	{
 		name: "Dangote",
-		photo: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Aliko_Dangote.jpg",
+		photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfic37parIO6NNMUIdl9dPoIbt5bjGOArzWoHWcemXosoEllps&s",
 		scores: [3, 1, 3, 5, 2, 3, 2, 2, 5, 5]
 	},
 	{
 		name: "Mark",
-		photo: "http://www.gstatic.com/tv/thumb/persons/589228/589228_v9_ba.jpg",
+		photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQNo75qw880RIvWQ0hKFH2adj-W-XwL5d-zqFfb-ENK5UFJbso7Q&s",
 		scores: [4, 1, 4, 4, 2, 4, 2, 5, 1, 3]
 	}
 ];
