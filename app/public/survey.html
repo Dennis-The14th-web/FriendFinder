@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Survey Questions Harmony Nest</title>
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="../scss/style.css">
+	<!-- <link rel="stylesheet" type="text/css" href="../scss/style.css"> -->
     <link href="https://fonts.googleapis.com/css?family=Vibes&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Cookie|Philosopher|Special+Elite|Vibes&display=swap" rel="stylesheet">
 </head>
@@ -14,6 +14,7 @@
     <style>
         body {
     font-family: 'Philosopher', sans-serif;
+    background-color: powderblue;
     margin: 0;
     padding: 0;
 }
@@ -44,7 +45,7 @@
 
 footer {
 	text-align: right;
-	background: #fff;
+	background: #ebebeb;
     padding: 30px;
 }
 
@@ -102,7 +103,7 @@ span {
         <div class="container content">
                 <h1>Survey Questions</h1>
                 <hr>
-                <p id="page1">Please take a quick survey to find your perfect match! These questions are answered by the numbers 1 through 5. If you strongly disagree with the statement, your answer would be 1. If you strongly agree with a statement, please put in a 5.</p>
+                <p id="page1">Please take a quick survey to find your perfect friend! These questions are answered by the numbers 1 through 5. If you strongly disagree with the statement, your answer would be 1. If you strongly agree with a statement, please put in a 5.</p>
                 <form>
                     <div class="form-group">
                         <input id="name" type="text" class="form-control" placeholder="Name (Required)">
@@ -276,9 +277,9 @@ span {
 		event.preventDefault();
 		// Form validation
 		var valid = true;
-		if($("#name").val() === "" || $("#photo").val() === "") {
+		if($("#name").val("") === "" || $("#photo").val("") === "") {
 			valid = false;
-		} else if($("#question1").val() === "empty" || $("#question2").val() === "empty" || $("#question3").val() === "empty" || $("#question4").val() === "empty" || $("#question5").val() === "empty" || $("#question6").val() === "empty" || $("#question7").val() === "empty" || $("#question8").val() === "empty" || $("#question9").val() === "empty" || $("#question10").val() === "empty") {
+		} else if($("#question1").val("") === "empty" || $("#question2").val("") === "empty" || $("#question3").val("") === "empty" || $("#question4").val("") === "empty" || $("#question5").val("") === "empty" || $("#question6").val("") === "empty" || $("#question7").val("") === "empty" || $("#question8").val("") === "empty" || $("#question9").val("") === "empty" || $("#question10").val("") === "empty") {
 			valid = false;
 		}
 		if(valid === true) {
