@@ -40,7 +40,7 @@ In this activity, I have built a compatibility-based "FriendFinder" application 
 
 5. Application's data is saved inside of `app/data/friends.js` as an array of objects. Each of these objects should roughly follow the format below.
 
-```json
+- json
 {
   "name":"Ahmed",
   "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
@@ -57,7 +57,7 @@ In this activity, I have built a compatibility-based "FriendFinder" application 
       1
     ]
 }
-```
+
 
 6. I have determine the user's most compatible friend using the following as a guide:
 
