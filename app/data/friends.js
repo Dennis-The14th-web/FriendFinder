@@ -1,4 +1,9 @@
 var friends = [
+    {
+		name: "Dennis",
+		photo: "https://avatars3.githubusercontent.com/u/52843217?s=460&v=4",
+		scores: [1, 1, 5, 3, 3, 5, 1, 2, 3, 4]
+	},
 	{
 		name: "Jeff",
 		photo: "http://www.gstatic.com/tv/thumb/persons/532529/532529_v9_bb.jpg",
@@ -8,11 +13,6 @@ var friends = [
 		name: "Bill",
 		photo: "http://www.gstatic.com/tv/thumb/persons/614/614_v9_bc.jpg",
 		scores: [2, 5, 4, 1, 2, 3, 3, 2, 3, 3]
-	},
-	{
-		name: "Dennis",
-		photo: "https://avatars3.githubusercontent.com/u/52843217?s=460&v=4",
-		scores: [1, 1, 5, 3, 3, 5, 1, 2, 3, 4]
 	},
 	{
 		name: "Dangote",
