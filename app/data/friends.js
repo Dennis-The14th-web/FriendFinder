@@ -2,7 +2,7 @@ var friends = [
 	{
 		name: "Dennis",
 		photo: "https://avatars3.githubusercontent.com/u/52843217?s=460&v=4",
-		scores: [5, 1, 2, 3, 1, 2, 5, 1, 1, 1]
+		scores: [5, 1, 2, 3, 1, 2, 5, 4, 3, 1]
 	},
 	{
 		name: "Jeff",
