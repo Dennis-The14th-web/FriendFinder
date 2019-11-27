@@ -6,7 +6,7 @@ In this activity, I have built a compatibility-based "FriendFinder" application 
 
 - Live Heroku Link
 
-     * <a href="https://stormy-brushlands-80802.herokuapp.com"><img src="images/harmoney&nest02.png" ></a>
+      <a href="https://stormy-brushlands-80802.herokuapp.com"><img src="images/harmoney&nest02.png" ></a>
 
 # Technologies
 
@@ -26,7 +26,7 @@ In this activity, I have built a compatibility-based "FriendFinder" application 
 
 # Description
 
-1. This survey has 10 questions of your choosing. Each answer should be on a scale of 1 to 5 based on how much the user agrees or disagrees with a question.
+1. This survey has 10 questions of users choice. Each answer should be on a scale of 1 to 5 based on how much the user agrees or disagrees with a question.
 
 2. The `server.js` file  require the basic npm packages : `express` and `path`.
 
