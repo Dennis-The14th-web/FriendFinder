@@ -6,7 +6,7 @@ In this activity, I have built a compatibility-based "FriendFinder" application 
 
 - Live Heroku Link
 
-      <a href="https://stormy-brushlands-80802.herokuapp.com"><img src="images/harmoney&nest02.png" ></a>
+  <a href="https://stormy-brushlands-80802.herokuapp.com"><img src="images/harmoney&nest02.png" ></a>
 
 # Technologies
 
